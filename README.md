@@ -37,12 +37,9 @@ AnimalInheritanceDemo/
 
 ## How to Run
 
-1. **Prerequisites**: Make sure you have .NET SDK installed on your machine
-2. **Navigate to the project directory**:
-   ```bash
-   cd AnimalInheritanceDemo
-   ```
-3. **Run the application**:
+1. **Prerequisites**: Make sure you have .NET SDK installed on your machine 
+
+2. **Run the application**:
    ```bash
    dotnet run
    ```
