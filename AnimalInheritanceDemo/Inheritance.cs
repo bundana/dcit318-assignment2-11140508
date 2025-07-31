@@ -1,6 +1,6 @@
 using System;
 
-namespace AnimalInheritanceDemo
+namespace dcit318_assignment2_11140508
 {
     // Task 1: Inheritance and Method Overriding
     public class Animal

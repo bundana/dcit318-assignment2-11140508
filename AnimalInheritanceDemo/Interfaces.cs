@@ -1,6 +1,6 @@
 using System;
 
-namespace AnimalInheritanceDemo
+namespace dcit318_assignment2_11140508
 {
     // Task 3: Interfaces
     public interface IMovable
@@ -23,4 +23,4 @@ namespace AnimalInheritanceDemo
             Console.WriteLine("Bicycle is moving");
         }
     }
-} 
+}

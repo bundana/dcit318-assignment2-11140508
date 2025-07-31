@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AnimalInheritanceDemo
+namespace dcit318_assignment2_11140508
 {
     class Program
     {

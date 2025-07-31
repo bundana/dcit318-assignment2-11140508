@@ -1,0 +1,15 @@
+/Users/zaakigh/Desktop/Academics/IT/L300/DCIT318/dcit318-assignment2-11140508/bin/Debug/net9.0/AnimalInheritanceDemo
+/Users/zaakigh/Desktop/Academics/IT/L300/DCIT318/dcit318-assignment2-11140508/bin/Debug/net9.0/AnimalInheritanceDemo.deps.json
+/Users/zaakigh/Desktop/Academics/IT/L300/DCIT318/dcit318-assignment2-11140508/bin/Debug/net9.0/AnimalInheritanceDemo.runtimeconfig.json
+/Users/zaakigh/Desktop/Academics/IT/L300/DCIT318/dcit318-assignment2-11140508/bin/Debug/net9.0/AnimalInheritanceDemo.dll
+/Users/zaakigh/Desktop/Academics/IT/L300/DCIT318/dcit318-assignment2-11140508/bin/Debug/net9.0/AnimalInheritanceDemo.pdb
+/Users/zaakigh/Desktop/Academics/IT/L300/DCIT318/dcit318-assignment2-11140508/obj/Debug/net9.0/AnimalInheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zaakigh/Desktop/Academics/IT/L300/DCIT318/dcit318-assignment2-11140508/obj/Debug/net9.0/AnimalInheritanceDemo.AssemblyInfoInputs.cache
+/Users/zaakigh/Desktop/Academics/IT/L300/DCIT318/dcit318-assignment2-11140508/obj/Debug/net9.0/AnimalInheritanceDemo.AssemblyInfo.cs
+/Users/zaakigh/Desktop/Academics/IT/L300/DCIT318/dcit318-assignment2-11140508/obj/Debug/net9.0/AnimalInheritanceDemo.csproj.CoreCompileInputs.cache
+/Users/zaakigh/Desktop/Academics/IT/L300/DCIT318/dcit318-assignment2-11140508/obj/Debug/net9.0/AnimalInheritanceDemo.sourcelink.json
+/Users/zaakigh/Desktop/Academics/IT/L300/DCIT318/dcit318-assignment2-11140508/obj/Debug/net9.0/AnimalInheritanceDemo.dll
+/Users/zaakigh/Desktop/Academics/IT/L300/DCIT318/dcit318-assignment2-11140508/obj/Debug/net9.0/refint/AnimalInheritanceDemo.dll
+/Users/zaakigh/Desktop/Academics/IT/L300/DCIT318/dcit318-assignment2-11140508/obj/Debug/net9.0/AnimalInheritanceDemo.pdb
+/Users/zaakigh/Desktop/Academics/IT/L300/DCIT318/dcit318-assignment2-11140508/obj/Debug/net9.0/AnimalInheritanceDemo.genruntimeconfig.cache
+/Users/zaakigh/Desktop/Academics/IT/L300/DCIT318/dcit318-assignment2-11140508/obj/Debug/net9.0/ref/AnimalInheritanceDemo.dll
