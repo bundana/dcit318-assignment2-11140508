@@ -11,9 +11,9 @@ namespace AnimalInheritanceDemo
 
             // Task 1: Inheritance and Method Overriding
             Console.WriteLine("=== Task 1: Inheritance and Method Overriding ===");
-            Animal animal = new Animal();
-            Dog dog = new Dog();
-            Cat cat = new Cat();
+            Animal animal = new();
+            Dog dog = new();
+            Cat cat = new();
 
             Console.WriteLine("Animal sound:");
             animal.MakeSound();
@@ -27,8 +27,8 @@ namespace AnimalInheritanceDemo
 
             // Task 2: Abstract Classes and Methods
             Console.WriteLine("=== Task 2: Abstract Classes and Methods ===");
-            Circle circle = new Circle(5.0);
-            Rectangle rectangle = new Rectangle(4.0, 6.0);
+            Circle circle = new(5.0);
+            Rectangle rectangle = new(4.0, 6.0);
 
             Console.WriteLine($"Circle area (radius = 5): {circle.GetArea():F2}");
             Console.WriteLine($"Rectangle area (length = 4, width = 6): {rectangle.GetArea():F2}");
@@ -36,8 +36,8 @@ namespace AnimalInheritanceDemo
 
             // Task 3: Interfaces
             Console.WriteLine("=== Task 3: Interfaces ===");
-            Car car = new Car();
-            Bicycle bicycle = new Bicycle();
+            Car car = new();
+            Bicycle bicycle = new();
 
             Console.WriteLine("Car movement:");
             car.Move();
